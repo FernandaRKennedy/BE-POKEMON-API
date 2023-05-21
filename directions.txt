@@ -1,0 +1,5 @@
+- write a script (not a server) that uses the pokemon api to save some data about all the pokemon
+-create a model with the following fields: name and url 
+-call the api to get the list of pokemon. 
+-For each returned result save the entry to the database
+- BONUS - follow best practices - save the data concurrently
